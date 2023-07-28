@@ -1,2 +1,2 @@
 # Super
-Proyecto de Intecap
+Proyecto de supermercado
